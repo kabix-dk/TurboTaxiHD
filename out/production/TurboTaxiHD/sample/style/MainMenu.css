@@ -1,0 +1,23 @@
+.button {
+    -fx-background-radius: 6px;
+    -fx-background-color: #f0c911;
+    -fx-border-radius: 6px;
+    -fx-border-width: 1px;
+    -fx-border-color: #000000;
+}
+
+#end_game:hover {
+    -fx-background-radius: 6px;
+    -fx-background-color: #F02B2B;
+    -fx-border-radius: 6px;
+    -fx-border-width: 2px;
+    -fx-border-color: #000000;
+}
+
+#new_game:hover {
+    -fx-background-radius: 6px;
+    -fx-background-color: #9BE564;
+    -fx-border-radius: 6px;
+    -fx-border-width: 2px;
+    -fx-border-color: #000000;
+}
